@@ -11,7 +11,7 @@ namespace KampIntro
             //Do not repeat yourself - Kendini tekrarlama
             //değer tutucu, alias
 
-            string kategoriEtiketi = "Kategori";
+            string kategoriEtiketi = "Kategoriler";
             int ogrenciSayisi = 32000;
             double faizOrani = 1.45;
             bool sistemeGirisYapmisMi = true;
@@ -39,8 +39,9 @@ namespace KampIntro
             {
                 Console.WriteLine("Giriş yap butonu");
             }
-
+            
             Console.WriteLine(kategoriEtiketi);
+
 
         }
     }

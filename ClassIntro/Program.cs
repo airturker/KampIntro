@@ -6,11 +6,11 @@ namespace ClassIntro
     {
         static void Main(string[] args)
         {
-            //string adi = "engin";
-            //int yas = 36;
+            string adi = "Engin";
+            int yas = 36;
 
             Kurs kurs1 = new Kurs();
-            kurs1.KursAdi = "c#";
+            kurs1.KursAdi = "C#";
             kurs1.Egitmen = "Engin Demiroğ";
             kurs1.IzlenmeOrani = 68;
 
@@ -24,22 +24,30 @@ namespace ClassIntro
             kurs3.Egitmen = "Berkay Bilgin";
             kurs3.IzlenmeOrani = 80;
 
+            Kurs kurs4 = new Kurs();
+            kurs4.KursAdi = "C++";
+            kurs4.Egitmen = "Murat Kurtboğan";
+            kurs4.IzlenmeOrani = 100;
+
+
+
+
             //Console.WriteLine(kurs1.KursAdi + " : " + kurs1.Egitmen);
 
-            Kurs[] kurslar = new Kurs[] {kurs1, kurs2, kurs3 };
+            Kurs[] kurslar = new Kurs[] {kurs1, kurs2, kurs3, kurs4 };
 
-            foreach (var kurs in kurslar)   // kurs = burda belirlenen bir değişken (takmaad) i gibi
+            foreach (var kurs in kurslar)
             {
                 Console.WriteLine(kurs.KursAdi + " : " + kurs.Egitmen);
             }
 
-            Console.WriteLine("-bitti-");
+
+            //Console.WriteLine("Hello World!");
         }
     }
 
     class Kurs
     {
-        
         public string KursAdi { get; set; }
         public string Egitmen { get; set; }
         public int IzlenmeOrani { get; set; }
