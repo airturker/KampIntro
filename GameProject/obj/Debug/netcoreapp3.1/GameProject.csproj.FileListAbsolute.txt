@@ -1,0 +1,12 @@
+C:\Users\Acer\source\repos\KampIntro\GameProject\bin\Debug\netcoreapp3.1\GameProject.exe
+C:\Users\Acer\source\repos\KampIntro\GameProject\bin\Debug\netcoreapp3.1\GameProject.deps.json
+C:\Users\Acer\source\repos\KampIntro\GameProject\bin\Debug\netcoreapp3.1\GameProject.runtimeconfig.json
+C:\Users\Acer\source\repos\KampIntro\GameProject\bin\Debug\netcoreapp3.1\GameProject.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\KampIntro\GameProject\bin\Debug\netcoreapp3.1\GameProject.dll
+C:\Users\Acer\source\repos\KampIntro\GameProject\bin\Debug\netcoreapp3.1\GameProject.pdb
+C:\Users\Acer\source\repos\KampIntro\GameProject\obj\Debug\netcoreapp3.1\GameProject.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\KampIntro\GameProject\obj\Debug\netcoreapp3.1\GameProject.AssemblyInfo.cs
+C:\Users\Acer\source\repos\KampIntro\GameProject\obj\Debug\netcoreapp3.1\GameProject.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\KampIntro\GameProject\obj\Debug\netcoreapp3.1\GameProject.dll
+C:\Users\Acer\source\repos\KampIntro\GameProject\obj\Debug\netcoreapp3.1\GameProject.pdb
+C:\Users\Acer\source\repos\KampIntro\GameProject\obj\Debug\netcoreapp3.1\GameProject.genruntimeconfig.cache
